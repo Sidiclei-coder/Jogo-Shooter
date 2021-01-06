@@ -1,6 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Oi, tudo bem?🙃
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um joguinho de space shooter super legal! 
+Esse é um joguinho de space shooter super legal! 
 
 ### Os requisitos são:
 
