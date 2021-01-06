@@ -7,7 +7,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: sans-serif;
-    background-color: cornflowerblue;
+    background-color:SlateBlue;
 }
 
 #main-play-area {
@@ -19,14 +19,14 @@ body {
 
 .game-instructions {
     position: relative;
-    color: white;
+    color:SlateBlue;
     left: 7rem;
     top: 0px;
 }
 
 .start-button {
     position: relative;
-    color: white;
+    color:SlateBlue;
     top: 9rem;
     left: 15rem;
     cursor: pointer;
